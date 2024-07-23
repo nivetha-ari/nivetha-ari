@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with **placements in FAANG**
 
-- 👨‍💻 All of my projects are available at [**](**)
-
 - 💬 Ask me about **Data, Python, SQL, C, Excel, Power BI, AI**
 
 - 📫 How to reach me **nivethaari235@gmail.com**
